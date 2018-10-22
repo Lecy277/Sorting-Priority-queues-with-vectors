@@ -4,7 +4,7 @@
 #include <vector>         // std::vector
 #include <functional>     // std::greater
 #include <fstream>        // std::fstream
-
+#include <string>         //std::getline string function
 using namespace std;
 
 class Spy {
